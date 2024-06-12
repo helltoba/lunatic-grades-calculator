@@ -1,1 +1,1 @@
-# lunatic-grades-calculator
+# Lunatic Grades Calculator
